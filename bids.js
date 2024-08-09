@@ -15,5 +15,6 @@ module.exports = ('sequelize') => {
         sequelize,
         modelName: 'Bid'
 });
+    
 return Bid;
 };
